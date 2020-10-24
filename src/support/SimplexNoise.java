@@ -1,7 +1,7 @@
 package support;
 
 /*
- * SimplexValue Noise in Java.
+ * OpenSimplex Noise in Java.
  * by Kurt Spencer
  *
  * Public Domain
